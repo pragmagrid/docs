@@ -1,0 +1,41 @@
+.. _Experimental CA: http://ca.pragma-grid.net/experimental 
+.. _CA email: mailto:pragma-ucsd-ca@sdsc.edu
+.. _PMA email: mailto:yoshio.tanaka@aist.go.jp
+
+.. |cp-cps| replace:: Certification Policy and Certification Practice Statement (CP/CPS)
+.. _cp-cps: http://ca.pragma-grid.net/cp-cps/pragma-ucsd-cp-cps-1.0.pdf
+
+.. |PEM| replace:: PRAGMA-UCSD CA root certificate
+.. _PEM: http://ca.pragma-grid.net/ca-certs/7721d4d3.0
+
+.. _CER: http://ca.pragma-grid.net/ca-certs/7721d4d3.cer
+.. _P12: http://ca.pragma-grid.net/ca-certs/7721d4d3.p12
+.. _P7B: http://ca.pragma-grid.net/ca-certs/7721d4d3.p7b
+.. _Certificate signing Policy: http://ca.pragma-grid.net/ca-certs/7721d4d3.signing_policy
+.. _DER: http://ca.pragma-grid.net/ca-certs/7721d4d3.der
+.. _CRL: http://ca.pragma-grid.net/ca-certs/7721d4d3.r0
+.. _Issued Certificates: http://ca.pragma-grid.net/issued
+
+.. _User Certificate Application Form: http://ca.pragma-grid.net/forms/user.txt
+.. _user example: http://ca.pragma-grid.net/forms/user_example.txt
+.. _Host Certificate Application Form: http://ca.pragma-grid.net/forms/host.txt
+.. _host example: http://ca.pragma-grid.net/forms/host_example.txt
+
+.. _APGRID: http://www.apgrid.org
+.. _PRAGMA Grid: http://goc.pragma-grid.net
+
+.. _International Grid Trust Federation: http://www.gridpma.org/
+.. _APGrid Policy Management Authority: http://www.apgridpma.org/
+.. _TAGPMA (The Americas Grid Policy Management Authority): http://www.tagpma.org/
+.. _EU Grid PMA: http://www.eugridpma.org/
+
+.. _PRAGMA Grid trusted CAs: http://goc.pragma-grid.net/pragma-doc/trusted.html
+.. _DOE Grids PMA: http://www.doegrids.org/pages/doegridspma.html
+.. _AIST Grid CA, Japan: https://www.apgrid.org/CA/AIST/Production/
+.. _APAC Grid CA, Australia: http://www.vpac.org/twiki/bin/view/APACgrid/CaInterface
+.. _ASGCCA, Taiwan: http://ca.grid.sinica.edu.tw/
+.. _CNIC Grid CA: http://ca.grid.cn/en/
+.. _SDG CA: http://ca.sdg.grid.cn/en/
+.. _IHEP CA, China: https://gridca.ihep.ac.cn/
+.. _KEK Grid CA, Japan: https://gridca.kek.jp/
+.. _NAREGI CA, Japan: https://www.naregi.org/ca/
