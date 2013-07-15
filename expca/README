@@ -4,4 +4,4 @@ Created with sphinx 1.2b1
 To create a distribution tar archive: 
 	make tar
 
-Install tar distro in /var/www/html/ca/ on ca.pragma-grid.net
+Install tar distro in /var/www/html/ca/experimental on ca.pragma-grid.net
