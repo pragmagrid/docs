@@ -306,3 +306,8 @@ div.viewcode-block:target {
     color: #557799;
 }
 
+.stdout {
+    color: #666688;
+    font-size: 90%;
+}
+

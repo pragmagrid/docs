@@ -1,4 +1,4 @@
-.. _CA email: mailto:nadya@sdsc.edu
+.. _CA admin: mailto:nadya@sdsc.edu
 
 .. |PEM| replace:: PRAGMA Experimental CA root certificate
 .. _PEM: http://ca.pragma-grid.net/ca-certs/5456d9ca.0
@@ -10,6 +10,7 @@
 .. _DER: http://ca.pragma-grid.net/ca-certs/5456d9ca.der
 .. _CRL: http://ca.pragma-grid.net/ca-certs/5456d9ca.r0
 .. _Issued Certificates: http://ca.pragma-grid.net/issued/experimental
+.. _CA URL: http://ca.pragma-grid.net/experimental/ca.html
 
 .. _User Certificate Application Form: http://ca.pragma-grid.net/forms/exp_user.txt
 .. _user example: http://ca.pragma-grid.net/forms/exp_user_example.txt
