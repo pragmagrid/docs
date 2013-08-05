@@ -17,7 +17,7 @@ User Certificates
 You will need 
 
 + **an encrypted License ID** that CA sent you in email. Save the attached license key as ``license-id.enc`` file.
-+ **L_password** - a password for the license key that CA gave to you. This is a one time password
++ **L-password** - a password for the license key that CA gave to you. This is a one time password
   to decrypt your License ID. 
 + **C-password** - a password for your certificate. This is your password that will enable you to use
   your certificate. User a strong password that is 12+ characters and contains upper and lower case letters. 
