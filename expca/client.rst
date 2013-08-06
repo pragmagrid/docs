@@ -37,7 +37,7 @@ The software is used to request and retrieve user and host certificates.
 
 #. **Download and extract the PRAGMA-GRID CA client software** ::
 
-      wget http://ca.pragma-grid.net/guide/pragma-ca-client.tar.gz
+      wget http://ca.pragma-grid.net/sw/pragma-ca-client.tar.gz
       tar zxvf pragma-ca-client.tar.gz 
       cd pragma-ca-client 
 
