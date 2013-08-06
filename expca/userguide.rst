@@ -310,6 +310,18 @@ Install
      # chmod 644 /etc/grid-security/certificates/5456d9ca.0
      # chmod 644 /etc/grid-security/certificates/5456d9ca.signing_policy 
 
+   Verify the CA certificate hash ::
+    
+     # openssl x509 -subject_hash -in /etc/grid-security/certificates/5456d9ca.0 -noout
+
+   If the output differs from ``5456d9ca`` create hash links. For example, if the output of above command is ``1a912308``
+   do the following: ::
+
+     # cd /etc/grid-security/certificates
+     # ln -s 5456d9ca.0 1a912308.0
+     # ln -s 5456d9ca.signing_policy 1a912308.signing_policy
+
+
 #. Install your host certificate 
 
    If you requested a host certificate, copy the certificate files
@@ -321,7 +333,6 @@ Install
      # chmod 644 /etc/grid-security/hostcert.pem
      # chmod 400 /etc/grid-security/hostkey.pem
 
-
 #. Install your Gfarm service certificate 
 
    If you requested a Gfarm service sertificate, copy the certificate
@@ -329,10 +340,11 @@ Install
 
       # mkdir -p /etc/grid-security/gfsd/
       # cp /home/cindy/hostcerts.new/hostcert.pem /etc/grid-security/gfsd/gfsdcert.pem
-      # cp /home/cindy/hostcerts.new/hostkey.pem /etc/grid- security/gfsd/gfsdkey.pem
+      # cp /home/cindy/hostcerts.new/hostkey.pem /etc/grid-security/gfsd/gfsdkey.pem
       # chown -R _gfarmfs:_gfarmfs /etc/grid-security/gfsd/
       # chmod 644 /etc/grid-security/gfsd/gfsdcert.pem
       # chmod 600 /etc/grid-security/gfsd/gfsdkey.pem
+
 
 .. _test-hostcert:
 
