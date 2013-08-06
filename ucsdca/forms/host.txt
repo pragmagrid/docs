@@ -1,0 +1,22 @@
+
+        Host Certificate Application Form 
+
+Please fill the form and send it to the PRAGMA-UCSD CA 
+Registration Authority (pragma-ucsd-ca at sdsc.edu)
+
+1. Purpose of this application (new or renew, select one)
+
+2. Name:
+
+3. Affiliation:
+
+4. Address:
+
+5. Phone Number:
+
+6. Fax Number:
+
+7. Email address:
+
+8. Hostname(s) for which the certificate is requested (abbreviation is acceptable):
+

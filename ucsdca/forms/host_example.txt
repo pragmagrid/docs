@@ -1,0 +1,37 @@
+
+NOTE: this is an exmaple of filled form for host (or service) certificate.
+==========================================================================
+
+        Host Certificate Application Form
+
+Please fill the form and send it to the PRAGMA-UCSD CA 
+Registration Authority (pragma-ucsd-ca at sdsc.edu)
+
+1. Purpose of this application (new or renew, select one)
+new
+
+2. Name:
+Yoshio Tanaka
+
+3. Affiliation:
+National Institute of Advanced Industrial Science and Technology
+
+4. Address:
+Tsukuba Central 2, Umezono 1-1-1, Tsukuba, Ibaraki 3058568, Japan
+
+5. Phone Number:
++81-12-3456789
+
+6. Fax Number:
++81-12-3456789
+
+7. Email address:
+yoshio@test.aist.go.jp
+
+8. Hostname(s) for which the certificate is requested (abbreviation is acceptable):
+karubi[0-3].aist.go.jp
+kuppa.aist.go.jp
+kimuchi01.aist.go.jp
+kimuchi02.aist.go.jp
+
+
