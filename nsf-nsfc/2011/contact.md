@@ -28,7 +28,7 @@ School of EECS
 Peking University
 
 
-** Contacts for Institute Visits on Sept 29Th**
+**Contacts for Institute Visits on Sept 29Th**
 
 Prof. Xiaobing Feng [fxb@ict.ac.cn](mailto:fxb@ict.ac.cn)
 Institute of Computing Technology
