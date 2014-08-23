@@ -9,7 +9,7 @@ wordpress_id: 321
 ---
 
 **September 26 – 28, 2011 at Peking University, Beijing, China**
-
+**[Agenda](agenda/index.markdown)**
 **[Agenda](http://www.nsf-nsfc-sw.org/?page_id=9)**
 **[Logistics](http://www.nsf-nsfc-sw.org/?page_id=17)**
 **[Contact](http://www.nsf-nsfc-sw.org/?page_id=26)**
