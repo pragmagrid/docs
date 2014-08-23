@@ -1,5 +1,5 @@
 
-** Workshop 1 (2011)**
+## **Workshop 1 (2011)**
 
 September 26 - 28, 2011 at Peking University, Beijing, China
 
