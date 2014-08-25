@@ -3,7 +3,7 @@
 
 March 5 - 8, 2012,  San Diego, CA,  USA
 
-+ **[Agenda](agenda2012.jpg?raw=true)**
++ **[Agenda](agenda2012.pdf?raw=true)**
 + **[Logistics](logistics.md)**
 + **[Contact](contact.md)**
 + **[Participants](participants.md)**
