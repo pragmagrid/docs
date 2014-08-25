@@ -258,55 +258,40 @@ UCSD
 
 [1]: participants/phil.jpg "Phil"
 [2]: http://users.sdsc.edu/~phil/homepage.html
-[3]: participants/yifeng-chen1.jpg
-"yifeng-chen"
+[3]: participants/yifeng-chen1.jpg "yifeng-chen"
 [4]: http://sei.pku.edu.cn/~cyf/
-[5]: participants/Arzberger.jpg
-"Peter"
+[5]: participants/Arzberger.jpg "Peter"
 [6]: http://www.pragma-grid.net/committee-files/arzberger.html
-[7]: participants/GabrielleAllen1.jpg
-"GabrielleAllen"
+[7]: participants/GabrielleAllen1.jpg "GabrielleAllen"
 [8]: http://www.cct.lsu.edu/~gallen/
-[9]: participants/ZhaotianZHANG.jpg
-"ZhaotianZHANG"
+[9]: participants/ZhaotianZHANG.jpg "ZhaotianZHANG"
 [10]: http://www.msra.cn/labevents/faculty/Speakers.htm
-[11]:
-participants/Emily-Yuang-Ashworth1.jpg
-"Emily-Yuang-Ashworth"
+[11]: participants/Emily-Yuang-Ashworth1.jpg "Emily-Yuang-Ashworth"
 [12]: http://www.nsf.gov/od/oise/beijing/nsf-beijing-ofc-about-us.jsp
-[13]: participants/chenhuai22.jpg
-"chenhuai2"
+[13]: participants/chenhuai22.jpg "chenhuai2"
 [14]: http://www.nsf.gov/od/oise/country-list.jsp
 [15]: participants/liuxp.jpg "liuxp"
-[16]: participants/fortes1.jpg
-"fortes"
+[16]: participants/fortes1.jpg "fortes"
 [17]: http://www.ece.ufl.edu/people/faculty/fortes.html
 [18]: participants/guo.jpg "guo"
 [19]: http://www.u-aizu.ac.jp/~minyi
-[20]: participants/pdinda2.jpg
-"pdinda"
+[20]: participants/pdinda2.jpg "pdinda"
 [21]: http://www.cs.northwestern.edu/~pdinda/
-[22]: http://www.nsf-nsfc-sw.org/wp-content/uploads/YutongLu.jpg "YutongLu"
+[22]: participants/YutongLu.jpg "YutongLu"
 [23]: http://www.nudt.edu.cn
-[24]: participants/figueiredo.jpg
-"figueiredo"
+[24]: participants/figueiredo.jpg "figueiredo"
 [25]: http://byron.acis.ufl.edu/~renato
 [26]: participants/px.jpg "px"
-[27]:
-http://www.software.fudan.edu.cn/people/peopledirectorybyletter.shtml?letter=P
-[28]: participants/parashar.jpg
-"parashar"
+[27]: http://www.software.fudan.edu.cn/people/peopledirectorybyletter.shtml?letter=P
+[28]: participants/parashar.jpg "parashar"
 [29]: http://nsfcac.rutgers.edu/people/parashar/
-[30]: participants/zhanglu.jpg
-"zhanglu"
+[30]: participants/zhanglu.jpg "zhanglu"
 [31]: http://sei.pku.edu.cn/~zhanglu
 [32]: participants/xqiu.jpg "xqiu"
 [33]: http://www.soic.indiana.edu/people/profiles/qiu-judy.shtml
-[34]: participants/zhouym.jpg
-"zhouym"
+[34]: participants/zhouym.jpg "zhouym"
 [35]: http://cs.nju.edu.cn/zhouyuming
-[36]: participants/raghavan1.jpg
-"raghavan"
+[36]: participants/raghavan1.jpg "raghavan"
 [37]: http://www.cse.psu.edu/~raghavan/
 [38]: participants/qdp1.jpg "qdp"
 [39]: http://scse.buaa.edu.cn/english/html/05/
@@ -314,49 +299,35 @@ http://www.software.fudan.edu.cn/people/peopledirectorybyletter.shtml?letter=P
 [41]: http://www.cc.gatech.edu/~echow/
 [42]: participants/wgc1.jpg "wgc"
 [43]: http://hpc.cs.tsinghua.edu.cn/research/cluster/cwg.html
-[44]: participants/bill-gropp1.jpg
-"bill-gropp"
+[44]: participants/bill-gropp1.jpg "bill-gropp"
 [45]: http://www.cs.uiuc.edu/~wgropp/
 [46]: participants/EGNg1.jpg "EGNg"
 [47]: http://crd.lbl.gov/~EGNg/
 [48]: participants/xbf1.jpg "xbf"
-[49]:
-http://sourcedb.cas.cn/sourcedb_ict_cas/en/eictexpert/fas/200909/t20090917_2496613.html
-[50]: participants/a_patra1.jpg
-"a_patra"
+[49]: http://sourcedb.cas.cn/sourcedb_ict_cas/en/eictexpert/fas/200909/t20090917_2496613.html
+[50]: participants/a_patra1.jpg "a_patra"
 [51]: http://www.mae.buffalo.edu/people/full_time/a_patra.php
 [52]: participants/yqz1.jpg "yqz"
-[53]:
-http://sourcedb.cas.cn/sourcedb_is_cas/yw/zjrc/200908/t20090818_2415562.html
-[54]: participants/wright1.jpg
-"wright"
+[53]: http://sourcedb.cas.cn/sourcedb_is_cas/yw/zjrc/200908/t20090818_2415562.html
+[54]: participants/wright1.jpg "wright"
 [55]: http://www.cs.rutgers.edu/~rebecca.wright
-[56]: participants/jinzhi.jpg
-"jinzhi"
+[56]: participants/jinzhi.jpg "jinzhi"
 [57]: http://www.sei.pku.edu.cn/people/zhijin
-[58]: participants/lorenzo.jpg
-"lorenzo"
+[58]: participants/lorenzo.jpg "lorenzo"
 [59]: http://www.cs.utexas.edu/~lorenzo
-[60]: http://www.nsf-nsfc-sw.org/wp-content/uploads/WeiDong.jpg "weidong"
+[60]: participants/WeiDong.jpg "weidong"
 [61]: participants/mao.jpg "mao"
 [62]: http://www.eecs.umich.edu/~zmao
-[63]: participants/guming.jpg
-"guming"
-[64]:
-http://www.tsinghua.edu.cn/publish/soften/3131/2010/20101219102622467554674/20101219102622467554674_.html
-[65]: participants/traynor.jpg
-"traynor"
+[63]: participants/guming.jpg "guming"
+[64]: http://www.tsinghua.edu.cn/publish/soften/3131/2010/20101219102622467554674/20101219102622467554674_.html
+[65]: participants/traynor.jpg "traynor"
 [66]: http://www.cc.gatech.edu/~traynor
-[67]: participants/JianZhang.jpg
-"JianZhang"
+[67]: participants/JianZhang.jpg "JianZhang"
 [68]: http://lcs.ios.ac.cn/~zj
-[69]: participants/felixwu.jpg
-"felixwu"
+[69]: participants/felixwu.jpg "felixwu"
 [70]: http://www.cs.ucdavis.edu/~wu/
-[71]: participants/JianjunZhao.jpg
-"JianjunZhao"
+[71]: participants/JianjunZhao.jpg "JianjunZhao"
 [72]: http://cse.sjtu.edu.cn/~zhao
-[73]: participants/zhengc.jpg
-"zhengc"
+[73]: participants/zhengc.jpg "zhengc"
 [74]: http://www.sdsc.edu/~zhengc/zhengc.html
   
