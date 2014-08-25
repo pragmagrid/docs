@@ -18,14 +18,14 @@
   **Secure and Trustworthy Syberspace (SaTC) Program**, Dr. Sam Weber, Program
 * Director [ pptx][12]
 
-[3]: http://goc.pragma-grid.net/doc/CUSW2/presentations/PeterArzberger-worskhop1-sumamry.pptx
-[4]: http://goc.pragma-grid.net/doc/CUSW2/presentations/MironLivny.pptx
-[5]: http://goc.pragma-grid.net/doc/CUSW2/presentations/ScottKlasky.pptx
-[6]: http://goc.pragma-grid.net/doc/CUSW2/presentations/whitepaper-overview-ManishParashar.ppt
-[7]: http://goc.pragma-grid.net/doc/CUSW2/presentations/XuebinChi.ppt
-[8]: http://goc.pragma-grid.net/doc/CUSW2/presentations/NancySUNG.pptx
-[9]: http://goc.pragma-grid.net/doc/CUSW2/presentations/MohamedGouda.pptx
-[10]: http://goc.pragma-grid.net/doc/CUSW2/presentations/GarbrielleAllen.pptx
-[11]: http://goc.pragma-grid.net/doc/CUSW2/presentations/JiaoLin.pdf
-[12]: http://goc.pragma-grid.net/doc/CUSW2/presentations/SamWeber.pptx
+[3]: presentations/PeterArzberger-worskhop1-sumamry.pptx
+[4]: presentations/MironLivny.pptx
+[5]: presentations/ScottKlasky.pptx
+[6]: presentations/whitepaper-overview-ManishParashar.ppt
+[7]: presentations/XuebinChi.ppt
+[8]: presentations/NancySUNG.pptx
+[9]: presentations/MohamedGouda.pptx
+[10]: presentations/GarbrielleAllen.pptx
+[11]: presentations/JiaoLin.pdf
+[12]: presentations/SamWeber.pptx
   
