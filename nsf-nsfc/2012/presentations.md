@@ -15,8 +15,8 @@
 * **China Spallation Neutron Source data analysis software project**, Dr. Dr
   Jiao Lin,&nbsp;Caltech Center for Advanced Computing Research California
   Institute of Technology [pdf][11]
-  **Secure and Trustworthy Syberspace (SaTC) Program**, Dr. Sam Weber, Program
-* Director [ pptx][12]
+* **Secure and Trustworthy Syberspace (SaTC) Program**, Dr. Sam Weber, Program
+  Director [ pptx][12]
 
 [3]: presentations/PeterArzberger-worskhop1-sumamry.pptx
 [4]: presentations/MironLivny.pptx
