@@ -1,7 +1,4 @@
 
-[Source](http://www.nsf-nsfc-sw.org/?page_id=19 "Permalink to All Participants
-| US-China Software Workshop")
-
 ## Participants US-China Software Workshop
 
 ### Organizers 
