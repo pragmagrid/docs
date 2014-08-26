@@ -1,7 +1,8 @@
 
 
 + Original contents are from wordpress http://www.nsf-nsfc-sw.org
-+ Method 1: use **jekyll** (did not work because of chinese characters in xml file)
++ Method 1: use **jekyll** 
+  See http://hadihariri.com/2013/12/24/migrating-from-wordpress-to-jekyll/ and http://import.jekyllrb.com/docs/home/
     
   1. install jekyll, on MacOS  as root:
 	 + gem install jekyll
@@ -20,7 +21,7 @@
 				 "source" => "us-chinasoftwareworkshop.wordpress.2014-08-06.xml",
 				 "no_fetch_images" => false, "assets_folder" => "assets" })'
 
-     The conversion failes on non-latin characters
+     The conversion fails because of chinese characters in xml file
 
 + Method 2: use **exitwp**
 
