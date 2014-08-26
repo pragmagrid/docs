@@ -14,8 +14,8 @@ This workshop series is funded
 
 **Please see the** [Dear Colleagues Letter: US-China Collaborative Software Research](http://links.govdelivery.com/track?type=click&enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTIwNjI3Ljg2MTg1NTEmbWVzc2FnZWlkPU1EQi1QUkQtQlVMLTIwMTIwNjI3Ljg2MTg1NTEmZGF0YWJhc2VpZD0xMDAxJnNlcmlhbD0xNjkwNDY1MSZlbWFpbGlkPXpoZW5nY0BzZHNjLmVkdSZ1c2VyaWQ9emhlbmdjQHNkc2MuZWR1JmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&&&100&&&http://www.nsf.gov/pubs/2012/nsf12096/nsf12096.jsp?WT.mc_id=USNSF_25&WT.mc_ev=click)
 
-+ **[Workshop 2011](2011/index.md)**
-+ **[Workshop 2012](2012/index.md)**
++ **[Workshop 2011](2011/readme.md)**
++ **[Workshop 2012](2012/readme.md)**
 
 Project Summary
 ==================
