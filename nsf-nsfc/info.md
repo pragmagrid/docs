@@ -39,7 +39,7 @@
      + python setup.py install
 
   2. Put saved export xml file from wordpress  in exitwp:
-     + exitwp/
+     + ls exitwp/
      + cp us-chinasoftwareworkshop.wordpress.2014-08-06.xml exitwp/wordpress-xml/
      + cd exitwp/
      + xmllint --noout wordpress-xml/us-chinasoftwareworkshop.wordpress.2014-08-06.xml 
